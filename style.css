@@ -3,12 +3,12 @@ img {
 }
 
 #imgsel{
-  border: lightseagreen 2px solid;
+  border: lightseagreen 6px solid;
 }
 
 h1, h2, h3{
   font-family: Georgia, 'Times New Roman', Times, serif;
-  color: lightseagreen;
+  color: blue;
 }
 
 h1{
@@ -40,7 +40,7 @@ p{
 }
 
 .navbar a{
-  background-color:white;
+  background-color:gray;
 }
 
 body {
@@ -57,7 +57,7 @@ body {
 } 
 
 .homebtn{
-  background-color: white;
+  background-color: lightseagreen;
   z-index:2;
 }
 
